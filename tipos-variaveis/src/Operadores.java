@@ -11,5 +11,4 @@ public class Operadores {
         System.out.println(numero);
         System.out.println(!variavel); 
     }
-    
 }
